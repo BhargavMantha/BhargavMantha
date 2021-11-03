@@ -51,6 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Errors](https://dev.to/bhargavmantha/errors-555e)
 - [Running the stored procedure from NestJs](https://dev.to/bhargavmantha/running-the-stored-procedure-from-nestjs-gj0)
 - [Secret to configuring the best Postgres-Nest project- Part 1](https://dev.to/bhargavmantha/secret-to-configuring-the-best-postgres-nest-project-part-1-42n4)
 - [Connecting to RDS, Using DBeaver](https://dev.to/bhargavmantha/connecting-to-rds-using-dbaver-nni)
