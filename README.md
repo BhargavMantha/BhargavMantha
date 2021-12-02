@@ -1,4 +1,4 @@
-### Hi there, I'm Bhargav [BhargavMantha.dev] 👋
+### Hi there, I'm Bhargav [http://bhargavmantha.dev/] 👋
 
 
 ## I'm a Developer, Debugger, Gamer, Cook ,and Teacher!!
