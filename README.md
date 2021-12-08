@@ -8,7 +8,7 @@
 - 🖥 I'm a huge Linux Fan, My current OS is Manjaro Linux
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🚀 Learn as many new things as possible
-- ⚡ Fun fact: I love to ✏ sketch ,🌠 play computer games and and learn 🇯🇵 ese
+- ⚡ Fun fact: I love to ✏ sketch ,🌠 play computer games and and learn 🇯🇵 Japanese
 
 ### Connect with me:
 
