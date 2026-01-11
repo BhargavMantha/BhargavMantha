@@ -89,7 +89,7 @@ graph LR
     A -->|Deep Dive| C[Distributed Systems]
     A -->|Certifying| D[CKA + CKS]
     B --> E[Platform Architect Role]
-    C --> D
+    C --> E
 ```
 
 - 🔭 Building complex **Node-RED workflows** for healthcare automation
