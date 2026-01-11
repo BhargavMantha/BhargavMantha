@@ -89,9 +89,7 @@ graph LR
     A -->|Deep Dive| C[Distributed Systems]
     A -->|Certifying| D[CKA + CKS]
     B --> E[Platform Architect Role]
-    C --> E
-    D --> E
-    E -->|Target| F[₹55-75 LPA in 2-3 Years]
+    C --> D
 ```
 
 - 🔭 Building complex **Node-RED workflows** for healthcare automation
